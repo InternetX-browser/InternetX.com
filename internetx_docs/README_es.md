@@ -1,5 +1,9 @@
 # 🌐 InternetX 🔍 <img src="../src/devtitle.svg">
 
+<p align="left">
+<a href="../README.md"><img alt="cambiar ingles" src="../src/transl_eng.svg"/></a>
+</p>
+
 InternetX es un navegador de Internet real.
 
 ## Potencial 💪🏻

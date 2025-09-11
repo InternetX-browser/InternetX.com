@@ -1,5 +1,9 @@
 # 🌐 InternetX 🔍 <img src="./src/devtitle.svg">
 
+<p align="left">
+<a href="./internetx_docs/README_es.md"><img alt="change lang" src="./src/transl_esp.svg"/></a>
+</p>
+
 InternetX it's an actual internet browser
 
 ## Potentials 💪🏻
