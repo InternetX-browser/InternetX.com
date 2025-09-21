@@ -30,7 +30,8 @@ Execute with Git this command:
 ## Our contributors ⭐
 
 <p align="left">
-![Account, first](https://avatars.githubusercontent.com/u/170886455?s=64&v=4)
-<img src="https://avatars.githubusercontent.com/u/127749202?s=64&v=4" width="64px" height="64px">
-![Account, third](https://avatars.githubusercontent.com/u/26021526?s=64&v=4)
+<img src="https://avatars.githubusercontent.com/u/170886455?s=64&v=4"/>
+<img src="https://avatars.githubusercontent.com/u/127749202?s=64&v=4" width="64px" height="64px"/>
+<img src="https://avatars.githubusercontent.com/u/26021526?s=64&v=4"/>
 </p>
+
