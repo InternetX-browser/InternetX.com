@@ -29,9 +29,6 @@ Execute with Git this command:
 
 ## Our contributors ⭐
 
-<p align="left">
-<img src="https://avatars.githubusercontent.com/u/170886455?s=64&v=4"/>
-<img src="https://avatars.githubusercontent.com/u/127749202?s=64&v=4" width="64px" height="64px"/>
-<img src="https://avatars.githubusercontent.com/u/26021526?s=64&v=4"/>
-</p>
+<img width="300" height="200" alt="Method Draw Image" src="https://github.com/user-attachments/assets/379238ab-8efc-4fbb-a761-1b01c7dd8b7f" />
+
 
